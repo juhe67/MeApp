@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MeApp</string>
+    <string name="register">Register</string>
+    <string name="i_agree_with_this">I agree with this</string>
+    <string name="term_and_conditions">Term and Condition</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="nik">NIK</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="L">laki-laki</string>
+    <string name="P">Perempuan</string>
+    <string name="select_date">select</string>
+    <string name="pekerjaan">Pekerjaan</string>
+    <string name="status">Status Perkawinan</string>
+    <string name="belum_kawin">Belum Kawin</string>
+    <string name="kawin">Kawin</string>
+    <string name="pilih_pekerjaan"> Pilih Pekerjaan </string>
+    <string-array name="pekerjaan">
+        <item>Pegawai Negeri Sipil</item>
+        <item>Pegawai Swasta</item>
+        <item>Pelajar</item>
+        <item>Wiraswasta</item>
+    </string-array>
+    <string name="pilih_status"> Pilih Status Perkawinan </string>
+    <string name="back">Back</string>
+    <string-array name="status">
+        <item>Belum Kawin </item>
+        <item>Kawin </item>
+    </string-array>
+
+</resources>
